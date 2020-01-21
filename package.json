@@ -2,7 +2,7 @@
     "name": "ayu-dark-lighter",
     "displayName": "Ayu Dark Lighter",
     "description": "Based on Ayu Dark (Bordered). Some UI elements are slightly lighter for better visibility than in the original theme.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "divola",
     "license": "MIT",
     "repository": {
