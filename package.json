@@ -1,37 +1,37 @@
 {
-    "name": "ayu-dark-lighter",
-    "displayName": "Ayu Dark Lighter",
-    "description": "Based on Ayu Dark (Bordered). Some UI elements are slightly lighter for better visibility than in the original theme.",
-    "version": "0.1.1",
-    "publisher": "divola",
-    "license": "MIT",
-    "repository": {
+	"name": "ayu-dark-lighter",
+	"displayName": "Ayu Dark Lighter",
+	"description": "Based on Ayu Dark (Bordered). Some UI elements are slightly lighter for better visibility than in the original theme.",
+	"version": "0.1.2",
+	"publisher": "divola",
+	"license": "MIT",
+	"repository": {
 		"type": "git",
 		"url": "https://github.com/divola/vscode-ayu-dark-lighter"
-    },
-    "bugs": {
+	},
+	"bugs": {
 		"url": "https://github.com/divola/vscode-ayu-dark-lighter/issues",
 		"email": "vashypisma@gmail.com"
 	},
-    "engines": {
-        "vscode": "^1.41.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
+	"engines": {
+		"vscode": "^1.41.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
 		"theme",
 		"ayu"
-    ],
-    "homepage": "https://github.com/divola/vscode-ayu-dark-lighter",
-    "icon": "assets/logo.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Ayu Dark Lighter",
-                "uiTheme": "vs-dark",
-                "path": "./ayu-dark-lighter.json"
-            }
-        ]
-    }
+	],
+	"homepage": "https://github.com/divola/vscode-ayu-dark-lighter",
+	"icon": "assets/logo.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ayu Dark Lighter",
+				"uiTheme": "vs-dark",
+				"path": "./ayu-dark-lighter.json"
+			}
+		]
+	}
 }
